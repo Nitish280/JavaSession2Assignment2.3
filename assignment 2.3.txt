@@ -1,0 +1,5 @@
+JIT known as (Just In Time Compiler) As we know that when the Java program is executed, the byte code is interpreted by 
+JVM.But this process is a slower process.It takes so much Time,So to overcome this Problem JIT(Just In Time Compiler) is 
+added in the JRE.It makes the execution faster.If the JIT Compiler library is available, when a particular bytecode is 
+executed first time, JIT complier compiles bytecode into  machine code which can be directly executed by the machine in 
+which the Java program runs.Once the byte code is recompiled by JIT compiler, the execution time needed is less.
